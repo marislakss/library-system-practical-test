@@ -6,7 +6,7 @@ This project is a Java application that represents a Book with a title and an au
 
 To get started with this project, you can follow these steps:
 
-1. Clone the repository: `git clone <git@github.com:marislakss/library-system-practical-test.git>`
+1. Clone the repository: `git clone <https://github.com/marislakss/library-system-practical-test.git>`
 2. Open the project in your IntelliJ IDEA.
 3. Build the project using the IDE's Maven build tools.
 4. Run the application.
